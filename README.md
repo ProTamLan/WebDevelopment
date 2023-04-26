@@ -9,3 +9,6 @@ My Web Work done in class and individually.
 
 ## <>*Song Requests*<>
 ![image](https://user-images.githubusercontent.com/75819639/234446697-45a2324f-6daa-4c3f-92a0-905a867e6e0c.png)
+
+## <>*Fortune Teller*<>
+![image](https://user-images.githubusercontent.com/75819639/234447889-dbed4d37-0714-4c26-a7de-1607b87f0d1c.png)
