@@ -1,4 +1,4 @@
-# WebDevelopment
+# WebDevelopment 101
 My Web Work done in class and individually. 
 # <>Sample Site Images<>
 ## <>*Nature's Hideaway*<>
